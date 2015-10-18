@@ -1,0 +1,6 @@
+D:\Development\Projects\BaseTemplate\BaseTemplate\bin\BaseTemplate.dll.config
+D:\Development\Projects\BaseTemplate\BaseTemplate\bin\BaseTemplate.dll
+D:\Development\Projects\BaseTemplate\BaseTemplate\bin\BaseTemplate.pdb
+D:\Development\Projects\BaseTemplate\BaseTemplate\obj\Debug\BaseTemplate.dll
+D:\Development\Projects\BaseTemplate\BaseTemplate\obj\Debug\BaseTemplate.pdb
+D:\Development\Projects\BaseTemplate\BaseTemplate\obj\Debug\BaseTemplate.csprojResolveAssemblyReference.cache
